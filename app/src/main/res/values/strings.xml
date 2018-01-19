@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstGitTestProject</string>
+    <string name="hello">Hello Rohit Pagare!</string>
 </resources>
