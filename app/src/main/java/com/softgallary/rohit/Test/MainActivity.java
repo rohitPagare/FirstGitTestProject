@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         hello.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this,"This is Version 2",Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this,"This is Version 2.2.2",Toast.LENGTH_LONG).show();
             }
         });
     }
